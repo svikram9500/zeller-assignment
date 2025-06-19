@@ -9,7 +9,7 @@ https://www.loom.com/share/e8f5968613cc4d4aa90e2ebcfd9dfcd8?sid=c7a125ca-5f3c-44
 
 ## Screen Shot of application
 
-![App Screenshot](src/assets/screenshot.png)
+<img src="src/assets/screenshot.png" alt="App Screenshot" width="400" />
 
 ---
 
